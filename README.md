@@ -12,6 +12,6 @@ I'm a 11 grades  student from Russia. I like make interesting things that help m
     - learn sintaxis of C
 
 
-##### Contacts:
-#####   - Email: greasha46@gmail.com
-#####   - Vk: https://vk.com/kingkraiven
+#### Contacts:
+#####   Email: greasha46@gmail.com
+#####   Vk: https://vk.com/kingkraiven

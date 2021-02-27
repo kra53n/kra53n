@@ -1,6 +1,6 @@
 ## ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Hi!
 
-I'm a 11 grades  student from Russia. I like make interesting things that help me with work on my PC. Now I'm learning popular language - Python. I am trying to learn more about Gnu/Linux systems. I really like it, exactly ArchLinux, but right now I can't install it and thats why I use Manjaro! Also I whant learn more about text editors such as Vim and Emacs!
+I'm a 11 grades  student from Russia. I like make interesting things that help me with work on my PC. Now I'm learning popular language - Python. I am trying to learn more about Gnu/Linux systems. I really like it, exactly ArchLinux, but right now I can't install it and thats why I use Manjaro! Also I want learn more about text editors such as Vim and Emacs!
 
 
 #### Future plans:

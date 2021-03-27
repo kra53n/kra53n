@@ -12,6 +12,7 @@ I'm a 11 grades  student from Russia. I like make interesting things that help m
     - learm more algorithms, math, geometry, vectors
     - learn sintaxis of C
     - try to write on Vala
+    - try to write on Rust
 
 
 #### Contacts:

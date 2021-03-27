@@ -5,12 +5,12 @@ I'm a 11 grades  student from Russia. I like make interesting things that help m
 
 #### Future plans:
     - learn more Python and make interesting things with this language
-    - learn Go language
     - learn how to built architect of programs
     - learn more about vim
     - learn more about Gnu/Linux systems and exacty Arch
     - learm more algorithms, math, geometry, vectors
     - learn sintaxis of C
+    - try Go language
     - try to write on Vala
     - try to write on Rust
 

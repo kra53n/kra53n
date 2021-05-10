@@ -19,8 +19,6 @@ _vimer_, _pythonieer_, man who like _coding_ and _Anime_.
     learn more about vim, vimscript
     learn more about Unix systems
 
-</p alight="center">
 #### Contacts:
 **Vk:** _https://vk.com/kingkraiven_
 **Mail:** _greasha46@gmail.com_
-</p>

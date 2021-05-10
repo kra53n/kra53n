@@ -1,4 +1,6 @@
-☆*:.｡.o(≧▽≦)o.｡.:*☆ _Hello!_
+<center>
+###  ☆*:.｡.o(≧▽≦)o.｡.:*☆ _Hello_!
+
 
 I'm a 11 grades  student from Russia. I like make interesting things that 
 help me with work on my PC. Now I'm learning popular language - Python. 
@@ -7,20 +9,24 @@ a lot of things but I do not have time and skills for it. So as I am
 _vimer_, _pythonieer_, man who like _coding_ and _Anime_. 
 
 
+
 ### Goal:
-_My main goal is to funish my school with a **good result**!_
+>_My main goal is to funish my school with a **good result**!_
 
 
 #### Future plans:
-    - try Go
-    - try C
-    - try Rust
 
-    - learm more algorithms, math, geometry, vectors
-    - learn more about vim, vimscript
-    - learn more about Unix systems
+    try Go
+    try C
+    try Rust
+
+    learm more algorithms, math, geometry, vectors
+    learn more about vim, vimscript
+    learn more about Unix systems
 
 
 #### Contacts:
-Vk: https://vk.com/kingkraiven
-Mail: greasha46@gmail.com
+
+**Vk:** _https://vk.com/kingkraiven_
+**Mail:** _greasha46@gmail.com_
+</center>

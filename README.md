@@ -1,18 +1,24 @@
-## ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Hi!
+☆*:.｡.o(≧▽≦)o.｡.:*☆ _Hello!_
 
-I'm a 11 grades  student from Russia. I like make interesting things that help me with work on my PC. Now I'm learning popular language - Python. I am trying to learn more about Gnu/Linux systems. I really like it, exactly ArchLinux, but right now I can't install it and thats why I use Manjaro! Also I want learn more about text editors such as Vim and Emacs!
+I'm a 11 grades  student from Russia. I like make interesting things that 
+help me with work on my PC. Now I'm learning popular language - Python. 
+I am trying to learn more about Unix systems. I would like to make
+a lot of things but I do not have time and skills for it. So as I am 
+_vimer_, _pythonieer_, man who like _coding_ and _Anime_. 
+
+
+### Goal:
+_My main goal is to funish my school with a **good result**!_
 
 
 #### Future plans:
-    - learn more Python and make interesting things with this language
-    - learn how to built architect of programs
-    - learn more about vim
-    - learn more about Gnu/Linux systems and exacty Arch
+    - try Go
+    - try C
+    - try Rust
+
     - learm more algorithms, math, geometry, vectors
-    - learn sintaxis of C
-    - try Go language
-    - try to write on Vala
-    - try to write on Rust
+    - learn more about vim, vimscript
+    - learn more about Unix systems
 
 
 #### Contacts:

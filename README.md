@@ -9,7 +9,7 @@ _vimer_, _pythonieer_, man who like _coding_ and _Anime_.
 ### Goal:
 >_My main goal is to funish my school with a **good result**!_
 
->_And this is done**!_
+>_And this is done!_
 
 #### Future plans:
 

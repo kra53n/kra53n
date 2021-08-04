@@ -6,10 +6,6 @@ I am trying to learn more about Unix systems. So I am
 _vimer_, _pythonieer_, man who like _coding_ and _Anime_. 
 
 
-### Goal:
-> Finish Curview
-
-
 #### Future plans:
 
     try JavaScript

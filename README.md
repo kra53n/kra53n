@@ -13,6 +13,6 @@ Contacts:
 </h4>
 
 Vk: _https://vk.com/kingkraiven_
-Mail: _bakhtin.g.a46@gmail.com_
+Mail: _bakhtin.g.a@gmail.com_
 
 </div>

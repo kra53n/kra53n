@@ -6,7 +6,7 @@
 
 I'm a 1-st course student of [BSTU](https://www.tu-bryansk.ru) from Russia.
 
-<img width="100%" src="https://c.tenor.com/_h_1fcwEkHYAAAAC/studying-windy.gif">
+<img width="70%" src="https://c.tenor.com/_h_1fcwEkHYAAAAC/studying-windy.gif">
 
 <h4>
 Contacts:

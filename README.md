@@ -4,8 +4,19 @@
 ☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i>
 </h3>
 
-I'm a 1-st course student.
+#### _find me_
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Krai53n&theme=github_dark&show_icons=true&border_color=4b8dda&custom_title=my github stats">](https://github.com/Krai53n)
+<p>
+    <a href="mailto:greasha46@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23bb001b.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://t.me/innerkraiven">
+        <img alt="Gmail" src="https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://vk.com/kingkraiven">
+        <img alt="Gmail" src="https://img.shields.io/badge/Vk-%230077ff.svg?&style=for-the-badge&logo=Vk&logoColor=white"/>
+    </a>
+</p>
 
 </div>

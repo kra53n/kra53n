@@ -1,10 +1,7 @@
 <div align="center">
 
-<h3>
-☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i>
-</h3>
-
-<summary><samp>extend</samp></summary>
+<details align="center">
+<summary><samp>☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i></samp></summary>
 
 #### _languages_
 

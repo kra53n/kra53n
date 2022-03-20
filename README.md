@@ -4,6 +4,8 @@
 ☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i>
 </h3>
 
+<summary><samp>extend</samp></summary>
+
 #### _languages_
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)

@@ -4,7 +4,6 @@
 <summary><samp>☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i></samp></summary>
 
 ---
-<img width="300px" align="right" src="golden_boy.gif" />
 
 #### _languages_
 

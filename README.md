@@ -4,7 +4,7 @@
 <summary><samp>☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i></samp></summary>
 
 ---
-<img width="60%" align="right" src="https://anime-chan.me/uploads/posts/2016-03/1458587999_file.gif" />
+<img width="300px" align="right" src="https://anime-chan.me/uploads/posts/2016-03/1458587999_file.gif" />
 
 #### _languages_
 

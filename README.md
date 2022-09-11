@@ -8,9 +8,9 @@
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 
 #### _working environment_
+![Emacs](https://img.shields.io/badge/-Emacs-7e58b4?&logo=GnuEmacs&logoColor=fff)
 ![Neovim/Vim](https://img.shields.io/badge/-Neovim-65af5d?&logo=Neovim&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-a377da?&logo=VisualStudio&logoColor=fff)
-![Pycharm](https://img.shields.io/badge/-PyCharm-15ceba?&logo=Pycharm&logoColor=fff)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35bf5c?&logo=Manjaro&logoColor=fff)
 
 #### _contacts_

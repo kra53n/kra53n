@@ -14,17 +14,5 @@
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35bf5c?&logo=Manjaro&logoColor=fff)
 
 #### _contacts_
-<p>
-  <a href="mailto:greasha46@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23bb001b.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/innerkraiven">
-      <img alt="Gmail" src="https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
-  </a>
-  </a>
-  <a href="https://vk.com/kingkraiven">
-      <img alt="Gmail" src="https://img.shields.io/badge/Vk-%230077ff.svg?&style=for-the-badge&logo=Vk&logoColor=white"/>
-  </a>
-</p>
 
-</div>
+![Discord](https://img.shields.io/badge/kra53n%232877-7289DA?style=for-the-badge&logo=discord&logoColor=fff)

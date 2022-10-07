@@ -4,10 +4,12 @@
 <hr>
 
 #### _languages_
+
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 
 #### _working environment_
+
 ![Emacs](https://img.shields.io/badge/-Emacs-7e58b4?&logo=GnuEmacs&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-a377da?&logo=VisualStudio&logoColor=fff)
 

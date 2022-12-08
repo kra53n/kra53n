@@ -1,5 +1,5 @@
 <div align="center">
-<details>
+details>
 <summary><samp>☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i></samp></summary>
 <hr>
 
@@ -11,6 +11,7 @@
 #### _working environment_
 
 ![Emacs](https://img.shields.io/badge/-Emacs-7e58b4?&logo=GnuEmacs&logoColor=fff)
+![Helix](https://img.shields.io/badge/-Helix-bfa19e?&logo=Helix&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-a377da?&logo=VisualStudio&logoColor=fff)
 
 #### _contacts_

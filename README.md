@@ -1,5 +1,5 @@
 <div align="center">
-details>
+<details>
 <summary><samp>☆*:.｡.o(≧▽≦)o.｡.:*☆ <i>Hello!</i></samp></summary>
 <hr>
 

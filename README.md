@@ -11,7 +11,6 @@
 #### _working environment_
 
 ![Emacs](https://img.shields.io/badge/-Emacs-7e58b4?&logo=GnuEmacs&logoColor=fff)
-![Lapce](https://img.shields.io/badge/-Lapce-257fc1?&logo=Lapce&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-a377da?&logo=VisualStudio&logoColor=fff)
 
 #### _contacts_

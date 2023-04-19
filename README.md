@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![Cpp](https://img.shields.io/badge/-C++-F34B7D?&logo=Cplusplus&logoColor=fff)
 
 #### _working environment_
 
